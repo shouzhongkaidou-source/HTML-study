@@ -1,7 +1,19 @@
 /* =============================================
    リセット・基本設定
-   {
-
+   { 
+   margin: 0; 
+   padding: 0; 
+   box-sizing: broder-box; 
+   }
+    
+  .body {
+     padding:40px;
+    font-family:sans-serif;
+    background-color:#f5f5f5;
+   }
+  .img:｛
+  max-width;100%
+  ｝
    =============================================
    まず最初にこれを書こう。
    ブラウザのデフォルト余白をリセットする定番の書き方です。
@@ -14,6 +26,13 @@
 
 /* =============================================
    ヘッダー
+  .header{
+  display:flex gap:20px
+  align-items:content:space-between
+  align-aitems:center
+  padding
+  background-color
+
    =============================================
    ロゴとナビを横並びにして、両端に配置しよう。
 
