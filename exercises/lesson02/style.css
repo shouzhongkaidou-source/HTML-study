@@ -1,22 +1,22 @@
 /* ===== Step 2: 文字の色とサイズ ===== */
 /* h1 と p にスタイルを書いてみよう */
 h1 {
-  color: #f81b0b;
+  color: #000000;
   font-size: 28px;
 }
 p {
-  color: #fdfdfd;
+  color: #000000;
   font-size: 16px;
 }
 h2 {
-  color: #ffffff;
+  color: #000000;
   font-size: 28px;
 }
 
 /* ===== Step 3: 背景色 ===== */
 /* body や h1 に background-color を追加しよう */
 body {
-  background-color: hsla(182, 100%, 79%, 0.678);
+  background-color: hsla(0, 0%, 100%, 0.678);
 }
 h1 {
   background-color: hsl(183, 41%, 34%);
