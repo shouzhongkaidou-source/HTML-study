@@ -30,9 +30,9 @@
 }
 
 body {
- padding:40px;
- font-family:sans-serif;
- background-color:#000000;
+  padding: 40px;
+  font-family: sans-serif;
+  background-color: #000000;
 }
 
 img {
@@ -97,15 +97,6 @@ h3 {
      .header-nav a に color と text-decoration: none を指定
      → リンクの色を変えて下線を消す
    ============================================= */
-.header{
-display: flex
-justify-content: space-between
-align-items:center padding
-}
-
-body {
-  background-color: hsl(237, 63%, 6%);
-}
 
 /* =============================================
    Aboutセクション
